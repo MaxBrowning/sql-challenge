@@ -57,7 +57,7 @@ CREATE TABLE "dept_manager" (
     "emp_no" INT   NOT NULL
 );
 
--- Clarify foreign keys.
+-- Set constraints for foreign keys.
 ALTER TABLE "employees" ADD CONSTRAINT "fk_employees_emp_title_id" FOREIGN KEY("emp_title_id")
 REFERENCES "titles" ("title_id");
 
