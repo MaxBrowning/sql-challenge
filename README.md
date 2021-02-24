@@ -12,5 +12,7 @@ To run this project, complete the following steps:
 
 ##### Sample Queries
 ![](https://github.com/MaxBrowning/sql-challenge/blob/main/Images/Output1.JPG)
+
 ![](https://github.com/MaxBrowning/sql-challenge/blob/main/Images/Output2.JPG)
+
 ![](https://github.com/MaxBrowning/sql-challenge/blob/main/Images/Output3.JPG)
